@@ -1,4 +1,4 @@
-# AdapMatch: Adaptive Dual-Classifiers for Unknown Class  Distribution in Semi-Supervised Partial Label Learning
+# AdapMatch: Adaptive Bias Decoupling for Semi-Supervised Partial Label Learning under Unknown Class Distributions
 
 
 ## Data Preparation
